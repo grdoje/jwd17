@@ -1,2 +1,3 @@
-MMMMMMMMNeki tekst.IZMENA. Nova izmena.
+MMMMMMMNeki tekst.IZMENA. Nova izmena.
+GggggggNeki tekst.IZMENA. Nova izmena.
 Izmena na grani.
